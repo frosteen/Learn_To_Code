@@ -1,5 +1,9 @@
 # Learn_To_Code
 
+## Introduction
+
+When I try to learn a new programming language, I only grasp the syntax of the following concepts/topics below.
+
 ## Programming Topics
 Note: These are take-down notes when learning a new programming language.
 
